@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+:root {
+    --main-bg-color: #e60012;
+ }
+body{
+    background-color: rgb(173, 173, 173)
+}
+
+@media (max-width: 600px) {}
